@@ -1,0 +1,12 @@
+{
+  "name": "miyadaiku.themes.fullpage",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miyadaiku/miyadaiku-themes-fullpage.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "fullpage.js": "^2.9.4"
+  }
+}
