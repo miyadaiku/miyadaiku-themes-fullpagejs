@@ -7,6 +7,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "fullpage.js": "^2.9.4"
+    "fullpage.js": "^3.0.1"
   }
 }

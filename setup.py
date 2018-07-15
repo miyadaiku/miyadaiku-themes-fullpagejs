@@ -14,11 +14,11 @@ requires = [
 
 srcdir = 'node_modules/fullpage.js/dist/'
 destdir = 'miyadaiku/themes/fullpagejs/files/static/fullpage_js/'
-copy_files = [[srcdir, ['jquery.fullpage.min.*'], destdir]]
+copy_files = [[srcdir, ['fullpage.*'], destdir]]
 
 setup(
     name="miyadaiku.themes.fullpagejs",
-    version="0.0.1",
+    version="0.0.2",
     author="Atsuo Ishimoto",
     license="MIT",
     classifiers=[
