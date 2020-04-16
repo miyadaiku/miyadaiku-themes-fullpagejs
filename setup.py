@@ -8,7 +8,7 @@ DIR = pathlib.Path(__file__).resolve().parent
 
 requires = [
     "miyadaiku",
-    "miyadaiku.themes.jquery"
+    "miyadaiku_theme_jquery"
 ]
 
 srcdir = DIR / 'node_modules/fullpage.js/dist/'
